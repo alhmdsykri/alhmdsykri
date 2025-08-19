@@ -29,15 +29,6 @@ Aplikasi Node.js sederhana yang di-containerize dengan Docker & docker-compose, 
 Helm Chart untuk deploy aplikasi ke Kubernetes, lengkap dengan Deployment, Service, Ingress, dan Horizontal Pod Autoscaler (HPA).
 
 ---
-
-## 📊 GitHub Stats
-
-![Alhamdusyukri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alhmdsykri&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alhmdsykri&layout=compact&theme=tokyonight)
-
----
-
 ## ✅ Badges
 
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-blue?logo=githubactions&logoColor=white)
@@ -50,5 +41,5 @@ Helm Chart untuk deploy aplikasi ke Kubernetes, lengkap dengan Deployment, Servi
 
 ## 📫 Connect with me
 
-- 💼 [LinkedIn](https://linkedin.com/in/alhmdsykri)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/alhamdu-syukri-8387231aa/)  
 - 📧 Email: **alhamdusyukri.as@gmail.com**
