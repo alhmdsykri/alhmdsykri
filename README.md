@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Alhamdusyukri
+# 👋 Hi, I'm Alhamdu Syukri
 
 🚀 DevOps Engineer | Cloud Enthusiast | Automation Lover  
 
